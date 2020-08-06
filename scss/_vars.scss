@@ -1,0 +1,17 @@
+$grey: #eff1f5;
+$blue-btn: #0674ec;
+
+
+@mixin qm {
+   font-family: 'Quicksand-Medium';
+   font-weight: 500;
+}
+@mixin qb {
+   font-family: 'Quicksand-Bold';
+   font-weight: 700;
+}
+@mixin ql {
+   font-family: 'Quicksand-Light';
+   font-weight: 700;
+}
+
